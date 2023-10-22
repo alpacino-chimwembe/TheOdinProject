@@ -1,0 +1,31 @@
+
+Here's a TL;DR for the most basic Git commands:
+
+- `git init`: initialize a new Git repository
+- `git add`: add changes to the staging area
+- `git commit`: create a new commit with the changes in the staging area
+- `git status`: show the status of the working directory and staging area
+- `git log`: show the commit history
+- `git branch`: show the list of branches and create new branches
+- `git checkout`: switch to a different branch or commit
+- `git merge`: merge changes from one branch into another
+- `git pull`: fetch and merge changes from a remote repository
+- `git push`: push changes to a remote repository
+
+Here are some guidelines for writing good Git commit messages:
+
+Keep it short and sweet: A good commit message should be concise and to the point. Ideally, it should be no longer than 50 characters.
+
+Use the imperative mood: Write your commit message in the imperative mood. For example, instead of saying "Fixed a bug," say "Fix bug."
+
+Be specific: Your commit message should be specific enough to convey what changes were made. Avoid vague messages like "Update code" or "Fix errors."
+
+Separate subject from body with a blank line: If your commit message requires a longer explanation, separate the subject from the body with a blank line.
+
+Use the body to explain what and why: The body of your commit message should explain what changes were made and why they were necessary.
+
+Use present tense: Write your commit message in the present tense. For example, instead of saying "Fixed a bug," say "Fixes bug."
+
+Use the imperative mood: Write your commit message in the imperative mood. For example, instead of saying "Fixed a bug," say "Fix bug."
+
+Use the active voice: Write your commit message in the active voice. For example, instead of saying "The bug was fixed," say "I fixed the bug."
